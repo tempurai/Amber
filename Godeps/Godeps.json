@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/llcan1120/amber",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v63",
+	"Deps": []
+}
